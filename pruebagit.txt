@@ -1,2 +1,0 @@
-Hola Mundo Git curso 26-27 con ssh!!!
-Probando el funcionamiento de Git en local y remoto

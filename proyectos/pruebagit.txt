@@ -1,2 +1,0 @@
-Hola Mundo Git 2627!!!
-Probando el funcionamiento de Git en local y remto
